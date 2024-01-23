@@ -12,3 +12,6 @@
  
  Statistical Categories: 
  MIN	POSS_est	FGM	FGA	FG3M	FG3A	FTM	FTA	OREB	DREB	REB	AST	STL	BLK	TOV	PF	PTS	FG%	3PT%	FT%	FG3A%	PTS/FGA	FG3M/FGM	FTA/FGA	TRU%	AST_TO
+
+ Graph Types:
+ Scatterplot, Heatmap, Histogram
